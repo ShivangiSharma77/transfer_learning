@@ -1,4 +1,4 @@
-# face recognition by transfer_learning
+# Face recognition by transfer_learning
 This is a part of my MLOPS task provided by Mr. Vimal Daga
 In this task, I have created a face recognition model using transfer learning by VGG16 pre-trained weights. 
 This model identifies faces of some popular actors such as- matthew mcconaughey, christian bale, leonardo dicaprio and Hugh jackman by transfer learning.
